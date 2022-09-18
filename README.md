@@ -1,2 +1,2 @@
-# react_props_and_interfaces
-Props &amp; Interfaces
+##Props &amp; Interfaces
+created with create-react-app and typescript
