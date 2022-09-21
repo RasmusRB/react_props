@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Props &amp; Interfaces
 created with create-react-app and typescript
 =======
@@ -49,3 +50,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 >>>>>>> 5fe46ca (Init)
+=======
+# react_props
+Props &amp; Interfaces
+>>>>>>> ebf442d9e0faa591140f72d306bbcfbaf0548002
